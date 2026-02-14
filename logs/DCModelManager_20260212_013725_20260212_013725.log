@@ -1,0 +1,77 @@
+2026-02-12 01:37:25 | DCModelManager_20260212_013725 | INFO | __init__:43 | DCModelManager initialized - Run ID: 20260212_013725
+2026-02-12 01:37:25 | DCModelManager_20260212_013725 | INFO | __init__:44 | Timestamp: 2026-02-12T01:37:25.084319
+2026-02-12 01:37:25 | DCModelManager_20260212_013725 | INFO | __init__:45 | Project root: d:\mestrado\dc-metah-icssa
+2026-02-12 01:37:25 | DCModelManager_20260212_013725 | INFO | __init__:46 | Total tickers: 24
+2026-02-12 01:37:45 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for ITUB4.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:46 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: ITUB4_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:46 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker ITUB4.SA: name 'pd' is not defined
+2026-02-12 01:37:46 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for BBDC4.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:47 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: BBDC4_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:47 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker BBDC4.SA: name 'pd' is not defined
+2026-02-12 01:37:47 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for BBAS3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:47 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: BBAS3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:47 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker BBAS3.SA: name 'pd' is not defined
+2026-02-12 01:37:47 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for VALE3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:48 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: VALE3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:48 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker VALE3.SA: name 'pd' is not defined
+2026-02-12 01:37:48 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for PETR4.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:49 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: PETR4_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:49 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker PETR4.SA: name 'pd' is not defined
+2026-02-12 01:37:49 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for SUZB3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:49 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: SUZB3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:49 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker SUZB3.SA: name 'pd' is not defined
+2026-02-12 01:37:49 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for EMBR3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:51 | DCModelManager_20260212_013725 | ERROR | log_message:46 | No data returned for EMBR3.SA
+2026-02-12 01:37:51 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker EMBR3.SA: name 'pd' is not defined
+2026-02-12 01:37:51 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for ABEV3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:51 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: ABEV3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:51 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker ABEV3.SA: name 'pd' is not defined
+2026-02-12 01:37:51 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for BRFS3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:53 | DCModelManager_20260212_013725 | ERROR | log_message:46 | No data returned for BRFS3.SA
+2026-02-12 01:37:53 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker BRFS3.SA: name 'pd' is not defined
+2026-02-12 01:37:53 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for MRFG3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:53 | DCModelManager_20260212_013725 | ERROR | log_message:46 | No data returned for MRFG3.SA
+2026-02-12 01:37:53 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker MRFG3.SA: name 'pd' is not defined
+2026-02-12 01:37:53 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for LREN3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:54 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: LREN3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:54 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker LREN3.SA: name 'pd' is not defined
+2026-02-12 01:37:54 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for MGLU3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:55 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: MGLU3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:55 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker MGLU3.SA: name 'pd' is not defined
+2026-02-12 01:37:55 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for ELET3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:55 | DCModelManager_20260212_013725 | ERROR | log_message:46 | No data returned for ELET3.SA
+2026-02-12 01:37:55 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker ELET3.SA: name 'pd' is not defined
+2026-02-12 01:37:55 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for CMIG4.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:56 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: CMIG4_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:56 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker CMIG4.SA: name 'pd' is not defined
+2026-02-12 01:37:56 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for ENBR3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:56 | DCModelManager_20260212_013725 | ERROR | log_message:46 | No data returned for ENBR3.SA
+2026-02-12 01:37:56 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker ENBR3.SA: name 'pd' is not defined
+2026-02-12 01:37:56 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for TAEE11.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:58 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: TAEE11_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:58 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker TAEE11.SA: name 'pd' is not defined
+2026-02-12 01:37:58 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for MRVE3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:58 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: MRVE3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:58 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker MRVE3.SA: name 'pd' is not defined
+2026-02-12 01:37:58 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for CYRE3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:37:59 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: CYRE3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:37:59 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker CYRE3.SA: name 'pd' is not defined
+2026-02-12 01:37:59 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for VIVT3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:38:00 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: VIVT3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:38:00 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker VIVT3.SA: name 'pd' is not defined
+2026-02-12 01:38:00 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for TIMS3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: TIMS3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker TIMS3.SA: name 'pd' is not defined
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for RDOR3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | WARNING | log_message:44 | Insufficient data: 1256 rows (minimum: 2000)
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: RDOR3_2025-12-31_2015-12-31.gzip - Rows: 1256
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker RDOR3.SA: name 'pd' is not defined
+2026-02-12 01:38:01 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for WEG3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:38:02 | DCModelManager_20260212_013725 | ERROR | log_message:46 | No data returned for WEG3.SA
+2026-02-12 01:38:02 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker WEG3.SA: name 'pd' is not defined
+2026-02-12 01:38:02 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for RENT3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:38:02 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: RENT3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:38:02 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker RENT3.SA: name 'pd' is not defined
+2026-02-12 01:38:02 | DCModelManager_20260212_013725 | INFO | log_message:42 | Collecting data for RAIL3.SA from 2015-12-31 to 2025-12-31
+2026-02-12 01:38:03 | DCModelManager_20260212_013725 | INFO | log_message:42 | File saved: RAIL3_2025-12-31_2015-12-31.gzip - Rows: 2491
+2026-02-12 01:38:03 | DCModelManager_20260212_013725 | ERROR | load_ticker_data:78 | Error loading data for ticker RAIL3.SA: name 'pd' is not defined

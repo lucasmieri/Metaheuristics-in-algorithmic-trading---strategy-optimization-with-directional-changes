@@ -1,0 +1,49 @@
+
+    ============================================
+    DC ANALYSIS SUMMARY REPORT
+    ============================================
+    
+    Threshold: 2.00%
+    
+    BASIC STATISTICS
+    ----------------
+    Total Days: 2,491
+    Total Events: 477
+    Event Frequency: 19.15%
+    
+    Up Events: 239
+    Down Events: 238
+    Up/Down Ratio: 1.00
+    
+    EVENT PERIODS (days between events)
+    -----------------------------------
+    Mean: 0.0
+    Median: 0.0
+    Std Dev: 0.0
+    Min: 0
+    Max: 0
+    
+    CHANGE MAGNITUDES
+    -----------------
+    Mean: 3.50%
+    Median: 2.93%
+    Std Dev: 1.89%
+    Min: 2.00%
+    Max: 17.13%
+    
+    REGIME CHARACTERISTICS
+    ----------------------
+    Up Regime:
+      Mean Period: 0.0 days
+      Mean Change: 3.52%
+      
+    Down Regime:
+      Mean Period: 0.0 days
+      Mean Change: 3.47%
+      
+    Symmetry:
+      Period Ratio (Up/Down): nan
+      Change Ratio (Up/Down): 1.01
+    
+    ============================================
+    

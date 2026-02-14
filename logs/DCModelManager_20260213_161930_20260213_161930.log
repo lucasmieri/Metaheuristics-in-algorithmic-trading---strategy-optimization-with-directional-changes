@@ -1,0 +1,163 @@
+2026-02-13 16:19:30 | DCModelManager_20260213_161930 | INFO | __init__:43 | DCModelManager initialized - Run ID: 20260213_161930
+2026-02-13 16:19:30 | DCModelManager_20260213_161930 | INFO | __init__:44 | Timestamp: 2026-02-13T16:19:30.767784
+2026-02-13 16:19:30 | DCModelManager_20260213_161930 | INFO | __init__:45 | Project root: d:\mestrado\dc-metah-icssa
+2026-02-13 16:19:30 | DCModelManager_20260213_161930 | INFO | __init__:46 | Total tickers: 24
+2026-02-13 16:19:30 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: ITUB4_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker ITUB4.SA: name 'pd' is not defined
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: BBDC4_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker BBDC4.SA: name 'pd' is not defined
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: BBAS3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker BBAS3.SA: name 'pd' is not defined
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: VALE3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker VALE3.SA: name 'pd' is not defined
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: PETR4_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker PETR4.SA: name 'pd' is not defined
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: SUZB3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker SUZB3.SA: name 'pd' is not defined
+2026-02-13 16:19:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Collecting data for EMBR3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 16:19:33 | DCModelManager_20260213_161930 | ERROR | log_message:46 | No data returned for EMBR3.SA
+2026-02-13 16:19:33 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker EMBR3.SA: name 'pd' is not defined
+2026-02-13 16:19:33 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: ABEV3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:33 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:33 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker ABEV3.SA: name 'pd' is not defined
+2026-02-13 16:19:33 | DCModelManager_20260213_161930 | INFO | log_message:42 | Collecting data for BRFS3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | ERROR | log_message:46 | No data returned for BRFS3.SA
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker BRFS3.SA: name 'pd' is not defined
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | Collecting data for MRFG3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | ERROR | log_message:46 | No data returned for MRFG3.SA
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker MRFG3.SA: name 'pd' is not defined
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: LREN3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker LREN3.SA: name 'pd' is not defined
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: MGLU3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker MGLU3.SA: name 'pd' is not defined
+2026-02-13 16:19:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | Collecting data for ELET3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 16:19:37 | DCModelManager_20260213_161930 | ERROR | log_message:46 | No data returned for ELET3.SA
+2026-02-13 16:19:37 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker ELET3.SA: name 'pd' is not defined
+2026-02-13 16:19:37 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: CMIG4_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:37 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:37 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker CMIG4.SA: name 'pd' is not defined
+2026-02-13 16:19:37 | DCModelManager_20260213_161930 | INFO | log_message:42 | Collecting data for ENBR3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | log_message:46 | No data returned for ENBR3.SA
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker ENBR3.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: TAEE11_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker TAEE11.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: MRVE3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker MRVE3.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: CYRE3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker CYRE3.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: VIVT3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker VIVT3.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: TIMS3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker TIMS3.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: RDOR3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 1256
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker RDOR3.SA: name 'pd' is not defined
+2026-02-13 16:19:38 | DCModelManager_20260213_161930 | INFO | log_message:42 | Collecting data for WEG3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | ERROR | log_message:46 | No data returned for WEG3.SA
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker WEG3.SA: name 'pd' is not defined
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: RENT3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker RENT3.SA: name 'pd' is not defined
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: RAIL3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:19:39 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker RAIL3.SA: name 'pd' is not defined
+2026-02-13 16:28:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: BBAS3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:28:31 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:28:31 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker BBAS3.SA: name 'pd' is not defined
+2026-02-13 16:29:01 | DCModelManager_20260213_161930 | INFO | log_message:42 | File found in cache: BBAS3_2025-12-31_2015-12-31.gzip
+2026-02-13 16:29:01 | DCModelManager_20260213_161930 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 16:29:01 | DCModelManager_20260213_161930 | ERROR | load_ticker_data:78 | Error loading data for ticker BBAS3.SA: name 'pd' is not defined
+2026-02-13 16:30:00 | DCModelManager_20260213_161930 | INFO | log_message:35 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:30:00 | DCModelManager_20260213_161930 | INFO | log_message:35 | DC transformation completed - Total events: 477, Up: 239, Down: 238
+2026-02-13 16:39:24 | DCModelManager_20260213_161930 | INFO | log_message:36 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:39:27 | DCModelManager_20260213_161930 | INFO | log_message:36 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 16:43:31 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:44:17 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:44:22 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 16:51:56 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:52:00 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 16:52:05 | DCModelManager_20260213_161930 | INFO | log_message:28 | Calculating basic DC statistics
+2026-02-13 16:52:05 | DCModelManager_20260213_161930 | INFO | log_message:28 | Statistics calculated - Total events: 477
+2026-02-13 16:52:05 | DCModelManager_20260213_161930 | INFO | log_message:181 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 16:52:47 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:52:50 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 16:53:33 | DCModelManager_20260213_161930 | INFO | log_message:28 | Calculating basic DC statistics
+2026-02-13 16:53:33 | DCModelManager_20260213_161930 | INFO | log_message:28 | Statistics calculated - Total events: 477
+2026-02-13 16:53:33 | DCModelManager_20260213_161930 | INFO | log_message:181 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 16:53:51 | DCModelManager_20260213_161930 | INFO | log_message:28 | Calculating basic DC statistics
+2026-02-13 16:53:51 | DCModelManager_20260213_161930 | INFO | log_message:28 | Statistics calculated - Total events: 477
+2026-02-13 16:53:51 | DCModelManager_20260213_161930 | INFO | log_message:181 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 16:54:06 | DCModelManager_20260213_161930 | INFO | log_message:181 | Threshold sensitivity analysis completed
+2026-02-13 16:57:52 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 16:57:54 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 16:57:55 | DCModelManager_20260213_161930 | INFO | log_message:380 | Calculating basic DC statistics
+2026-02-13 16:57:55 | DCModelManager_20260213_161930 | INFO | log_message:380 | Statistics calculated - Total events: 477
+2026-02-13 16:57:55 | DCModelManager_20260213_161930 | INFO | log_message:181 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 16:58:07 | DCModelManager_20260213_161930 | INFO | log_message:181 | Threshold sensitivity analysis completed
+2026-02-13 17:02:34 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 17:02:36 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 17:02:36 | DCModelManager_20260213_161930 | INFO | log_message:18 | Calculating basic DC statistics
+2026-02-13 17:02:36 | DCModelManager_20260213_161930 | INFO | log_message:18 | Statistics calculated - Total events: 477
+2026-02-13 17:02:36 | DCModelManager_20260213_161930 | INFO | log_message:146 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 17:02:48 | DCModelManager_20260213_161930 | INFO | log_message:146 | Threshold sensitivity analysis completed
+2026-02-13 17:06:55 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 17:06:57 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 17:06:57 | DCModelManager_20260213_161930 | INFO | log_message:18 | Calculating basic DC statistics
+2026-02-13 17:06:57 | DCModelManager_20260213_161930 | INFO | log_message:18 | Statistics calculated - Total events: 477
+2026-02-13 17:06:57 | DCModelManager_20260213_161930 | INFO | log_message:146 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 17:07:10 | DCModelManager_20260213_161930 | INFO | log_message:146 | Threshold sensitivity analysis completed
+2026-02-13 17:07:21 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 17:07:23 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 17:07:23 | DCModelManager_20260213_161930 | INFO | log_message:18 | Calculating basic DC statistics
+2026-02-13 17:07:23 | DCModelManager_20260213_161930 | INFO | log_message:18 | Statistics calculated - Total events: 477
+2026-02-13 17:07:23 | DCModelManager_20260213_161930 | INFO | log_message:146 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 17:07:38 | DCModelManager_20260213_161930 | INFO | log_message:146 | Threshold sensitivity analysis completed
+2026-02-13 17:09:22 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 17:09:24 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 17:09:24 | DCModelManager_20260213_161930 | INFO | log_message:18 | Calculating basic DC statistics
+2026-02-13 17:09:24 | DCModelManager_20260213_161930 | INFO | log_message:18 | Statistics calculated - Total events: 477
+2026-02-13 17:09:24 | DCModelManager_20260213_161930 | INFO | log_message:146 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 17:09:36 | DCModelManager_20260213_161930 | INFO | log_message:146 | Threshold sensitivity analysis completed
+2026-02-13 17:09:36 | DCModelManager_20260213_161930 | INFO | log_message:42 | Creating price chart with DC events
+2026-02-13 17:09:37 | DCModelManager_20260213_161930 | INFO | log_message:42 | Chart saved to results\figures\price_with_dc.png
+2026-02-13 17:09:37 | DCModelManager_20260213_161930 | INFO | log_message:99 | Creating event period distribution chart
+2026-02-13 17:09:38 | DCModelManager_20260213_161930 | INFO | log_message:99 | Chart saved to results\figures\event_periods.png
+2026-02-13 17:09:38 | DCModelManager_20260213_161930 | INFO | log_message:161 | Creating threshold sensitivity charts
+2026-02-13 17:09:40 | DCModelManager_20260213_161930 | INFO | log_message:161 | Chart saved to results\figures\threshold_sensitivity.png
+2026-02-13 17:09:40 | DCModelManager_20260213_161930 | INFO | log_message:207 | Analyzing temporal patterns
+2026-02-13 17:09:40 | DCModelManager_20260213_161930 | INFO | log_message:207 | Temporal patterns analyzed
+2026-02-13 17:09:40 | DCModelManager_20260213_161930 | INFO | log_message:233 | Creating temporal pattern charts
+2026-02-13 17:09:41 | DCModelManager_20260213_161930 | INFO | log_message:233 | Chart saved to results\figures\temporal_patterns.png
+2026-02-13 17:09:42 | DCModelManager_20260213_161930 | INFO | log_message:308 | Creating change magnitude analysis chart
+2026-02-13 17:09:43 | DCModelManager_20260213_161930 | INFO | log_message:308 | Chart saved to results\figures\change_magnitudes.png
+2026-02-13 17:18:06 | DCModelManager_20260213_161930 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 17:18:08 | DCModelManager_20260213_161930 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 525 (21.1%), Up: 263, Down: 262
+2026-02-13 17:18:08 | DCModelManager_20260213_161930 | INFO | log_message:18 | Calculating basic DC statistics
+2026-02-13 17:18:08 | DCModelManager_20260213_161930 | INFO | log_message:18 | Statistics calculated - Total events: 525
+2026-02-13 17:18:08 | DCModelManager_20260213_161930 | INFO | log_message:146 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 17:18:21 | DCModelManager_20260213_161930 | INFO | log_message:146 | Threshold sensitivity analysis completed
+2026-02-13 17:18:21 | DCModelManager_20260213_161930 | INFO | log_message:42 | Creating price chart with DC events
+2026-02-13 17:18:22 | DCModelManager_20260213_161930 | INFO | log_message:42 | Chart saved to results\figures\price_with_dc.png
+2026-02-13 17:18:22 | DCModelManager_20260213_161930 | INFO | log_message:99 | Creating event period distribution chart
+2026-02-13 17:18:23 | DCModelManager_20260213_161930 | INFO | log_message:99 | Chart saved to results\figures\event_periods.png
+2026-02-13 17:18:23 | DCModelManager_20260213_161930 | INFO | log_message:161 | Creating threshold sensitivity charts
+2026-02-13 17:18:25 | DCModelManager_20260213_161930 | INFO | log_message:161 | Chart saved to results\figures\threshold_sensitivity.png
+2026-02-13 17:18:25 | DCModelManager_20260213_161930 | INFO | log_message:207 | Analyzing temporal patterns
+2026-02-13 17:18:25 | DCModelManager_20260213_161930 | INFO | log_message:207 | Temporal patterns analyzed
+2026-02-13 17:18:25 | DCModelManager_20260213_161930 | INFO | log_message:233 | Creating temporal pattern charts
+2026-02-13 17:18:27 | DCModelManager_20260213_161930 | INFO | log_message:233 | Chart saved to results\figures\temporal_patterns.png
+2026-02-13 17:18:27 | DCModelManager_20260213_161930 | INFO | log_message:308 | Creating change magnitude analysis chart
+2026-02-13 17:18:28 | DCModelManager_20260213_161930 | INFO | log_message:308 | Chart saved to results\figures\change_magnitudes.png

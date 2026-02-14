@@ -1,0 +1,5 @@
+2026-02-12 00:49:07 | DCModelManager_20260212_004907 | INFO | __init__:40 | DCModelManager initialized - Run ID: 20260212_004907
+2026-02-12 00:49:07 | DCModelManager_20260212_004907 | INFO | __init__:41 | Timestamp: 2026-02-12T00:49:07.212539
+2026-02-12 00:49:07 | DCModelManager_20260212_004907 | INFO | __init__:42 | Project root: d:\mestrado\dc-metah-icssa
+2026-02-12 00:49:07 | DCModelManager_20260212_004907 | INFO | __init__:43 | Total tickers: 24
+2026-02-12 00:49:07 | DCModelManager_20260212_004907 | INFO | _validate_paths:57 | Path validation: 13/13 directories exist

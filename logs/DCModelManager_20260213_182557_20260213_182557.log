@@ -1,0 +1,17 @@
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | __init__:43 | DCModelManager initialized - Run ID: 20260213_182557
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | __init__:44 | Timestamp: 2026-02-13T18:25:57.818140
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | __init__:45 | Project root: d:\mestrado\dc-metah-icssa
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | __init__:46 | Total tickers: 24
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | File found in cache: ITUB4_2025-12-31_2015-12-31.gzip
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | File found in cache: BBDC4_2025-12-31_2015-12-31.gzip
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | File found in cache: BBAS3_2025-12-31_2015-12-31.gzip
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | File found in cache: VALE3_2025-12-31_2015-12-31.gzip
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | File found in cache: PETR4_2025-12-31_2015-12-31.gzip
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:25:57 | DCModelManager_20260213_182557 | INFO | log_message:42 | File found in cache: SUZB3_2025-12-31_2015-12-31.gzip
+2026-02-13 18:25:58 | DCModelManager_20260213_182557 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:25:58 | DCModelManager_20260213_182557 | INFO | log_message:42 | Collecting data for EMBR3.SA from 2015-12-31 to 2025-12-31

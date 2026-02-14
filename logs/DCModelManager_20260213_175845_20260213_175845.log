@@ -1,0 +1,158 @@
+2026-02-13 17:58:45 | DCModelManager_20260213_175845 | INFO | __init__:43 | DCModelManager initialized - Run ID: 20260213_175845
+2026-02-13 17:58:45 | DCModelManager_20260213_175845 | INFO | __init__:44 | Timestamp: 2026-02-13T17:58:45.414289
+2026-02-13 17:58:45 | DCModelManager_20260213_175845 | INFO | __init__:45 | Project root: d:\mestrado\dc-metah-icssa
+2026-02-13 17:58:45 | DCModelManager_20260213_175845 | INFO | __init__:46 | Total tickers: 24
+2026-02-13 17:58:45 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: ITUB4_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: BBDC4_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: BBAS3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: VALE3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: PETR4_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: SUZB3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:46 | DCModelManager_20260213_175845 | INFO | log_message:42 | Collecting data for EMBR3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 17:58:48 | DCModelManager_20260213_175845 | ERROR | log_message:46 | No data returned for EMBR3.SA
+2026-02-13 17:58:48 | DCModelManager_20260213_175845 | ERROR | load_ticker_data:78 | Error loading data for ticker EMBR3.SA: Expected a path-like, list of path-likes or a list of Datasets instead of the given type: NoneType
+2026-02-13 17:58:48 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: ABEV3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:48 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:48 | DCModelManager_20260213_175845 | INFO | log_message:42 | Collecting data for BRFS3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | ERROR | log_message:46 | No data returned for BRFS3.SA
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | ERROR | load_ticker_data:78 | Error loading data for ticker BRFS3.SA: Expected a path-like, list of path-likes or a list of Datasets instead of the given type: NoneType
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | INFO | log_message:42 | Collecting data for MRFG3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | ERROR | log_message:46 | No data returned for MRFG3.SA
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | ERROR | load_ticker_data:78 | Error loading data for ticker MRFG3.SA: Expected a path-like, list of path-likes or a list of Datasets instead of the given type: NoneType
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: LREN3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: MGLU3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:50 | DCModelManager_20260213_175845 | INFO | log_message:42 | Collecting data for ELET3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | ERROR | log_message:46 | No data returned for ELET3.SA
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | ERROR | load_ticker_data:78 | Error loading data for ticker ELET3.SA: Expected a path-like, list of path-likes or a list of Datasets instead of the given type: NoneType
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: CMIG4_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Collecting data for ENBR3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | ERROR | log_message:46 | No data returned for ENBR3.SA
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | ERROR | load_ticker_data:78 | Error loading data for ticker ENBR3.SA: Expected a path-like, list of path-likes or a list of Datasets instead of the given type: NoneType
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: TAEE11_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: MRVE3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: CYRE3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: VIVT3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: TIMS3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: RDOR3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 1256
+2026-02-13 17:58:51 | DCModelManager_20260213_175845 | INFO | log_message:42 | Collecting data for WEG3.SA from 2015-12-31 to 2025-12-31
+2026-02-13 17:58:52 | DCModelManager_20260213_175845 | ERROR | log_message:46 | No data returned for WEG3.SA
+2026-02-13 17:58:52 | DCModelManager_20260213_175845 | ERROR | load_ticker_data:78 | Error loading data for ticker WEG3.SA: Expected a path-like, list of path-likes or a list of Datasets instead of the given type: NoneType
+2026-02-13 17:58:52 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: RENT3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:52 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 17:58:52 | DCModelManager_20260213_175845 | INFO | log_message:42 | File found in cache: RAIL3_2025-12-31_2015-12-31.gzip
+2026-02-13 17:58:52 | DCModelManager_20260213_175845 | INFO | log_message:42 | Valid cache - Last date: 2025-12-30, Rows: 2491
+2026-02-13 18:02:01 | DCModelManager_20260213_175845 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 18:02:03 | DCModelManager_20260213_175845 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 18:03:04 | DCModelManager_20260213_175845 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 18:03:07 | DCModelManager_20260213_175845 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 18:03:25 | DCModelManager_20260213_175845 | INFO | log_message:37 | Starting DC transformation - Threshold: 2.00%
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:37 | DC transformation completed - Total rows: 2491, Total events: 477 (19.1%), Up: 239, Down: 238
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | ============================================================
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | STARTING COMPLETE DC ANALYSIS
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | ============================================================
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | 
+[1/10] Calculating basic statistics...
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:28 | Calculating basic DC statistics
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:28 | Statistics calculated - Total events: 477
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | [2/10] Analyzing event distribution...
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:87 | Analyzing event period distribution
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:87 | Event period distribution calculated
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | [3/10] Analyzing temporal patterns...
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:130 | Analyzing temporal patterns
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:130 | Temporal patterns analyzed
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:490 | [4/10] Analyzing threshold sensitivity...
+2026-02-13 18:03:29 | DCModelManager_20260213_175845 | INFO | log_message:180 | Analyzing threshold sensitivity for 5 thresholds
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:180 | Threshold sensitivity analysis completed
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:490 | [5/10] Analyzing regime characteristics...
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:241 | Analyzing regime characteristics
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:241 | Regime characteristics analyzed
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:490 | [6/10] Analyzing event clustering...
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:306 | Analyzing event clustering with 30-day window
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:306 | Event clustering analyzed - High vol threshold: 8.0 events/30days
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:490 | [7/10] Analyzing overshoot patterns...
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:344 | Analyzing overshoot patterns
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:344 | Overshoot analysis completed - Mean: 0.0150
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:490 | [8/10] Analyzing consecutive event patterns...
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:399 | Analyzing consecutive event patterns
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:399 | Consecutive events analyzed - 1 runs identified
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:490 | 
+[9/10] Generating visualizations...
+2026-02-13 18:03:43 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Price with DC events...
+2026-02-13 18:03:44 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Event period distribution...
+2026-02-13 18:03:46 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Threshold sensitivity...
+2026-02-13 18:03:48 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Temporal patterns...
+2026-02-13 18:03:50 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Change magnitude analysis...
+2026-02-13 18:03:51 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Event density timeline...
+2026-02-13 18:03:53 | DCModelManager_20260213_175845 | INFO | log_message:490 |   - Overshoot analysis...
+2026-02-13 18:03:54 | DCModelManager_20260213_175845 | INFO | log_message:490 | 
+[10/10] Generating summary report...
+2026-02-13 18:03:54 | DCModelManager_20260213_175845 | INFO | log_message:490 | 
+Report saved to: results\dc_analysis_bbas3\dc_analysis_report.txt
+2026-02-13 18:03:54 | DCModelManager_20260213_175845 | INFO | log_message:490 | Figures saved to: results\dc_analysis_bbas3\figures
+2026-02-13 18:03:54 | DCModelManager_20260213_175845 | INFO | log_message:490 | 
+============================================================
+2026-02-13 18:03:54 | DCModelManager_20260213_175845 | INFO | log_message:490 | COMPLETE DC ANALYSIS FINISHED
+2026-02-13 18:03:54 | DCModelManager_20260213_175845 | INFO | log_message:490 | ============================================================
+2026-02-13 18:13:34 | DCModelManager_20260213_175845 | INFO | log_message:34 | Generating DC trading signals
+2026-02-13 18:13:37 | DCModelManager_20260213_175845 | INFO | log_message:34 | Signals generated - Buys: 238, Sells: 238
+2026-02-13 18:13:37 | DCModelManager_20260213_175845 | INFO | log_message:34 | Running backtest - Initial capital: 10000.00
+2026-02-13 18:13:41 | DCModelManager_20260213_175845 | INFO | log_message:34 | Backtest completed - Final value: 10446.24, Total costs: 5209.92
+2026-02-13 18:13:41 | DCModelManager_20260213_175845 | INFO | log_message:32 | Calculating performance metrics
+2026-02-13 18:13:41 | DCModelManager_20260213_175845 | INFO | log_message:32 | Metrics calculated - Sharpe: -0.03, Max DD: -40.54%
+2026-02-13 18:13:41 | DCModelManager_20260213_175845 | INFO | log_message:117 | Running Buy & Hold benchmark
+2026-02-13 18:13:41 | DCModelManager_20260213_175845 | INFO | log_message:117 | Buy & Hold completed - Final value: 57173.74, Return: 471.74%
+2026-02-13 18:16:06 | DCModelManager_20260213_175845 | INFO | log_message:34 | Generating DC trading signals
+2026-02-13 18:16:09 | DCModelManager_20260213_175845 | INFO | log_message:34 | Signals generated - Buys: 238, Sells: 238
+2026-02-13 18:16:09 | DCModelManager_20260213_175845 | INFO | log_message:34 | Running backtest - Initial capital: 10000.00
+2026-02-13 18:16:13 | DCModelManager_20260213_175845 | INFO | log_message:34 | Backtest completed - Final value: 10446.24, Total costs: 5209.92
+2026-02-13 18:16:13 | DCModelManager_20260213_175845 | INFO | log_message:32 | Calculating performance metrics
+2026-02-13 18:16:13 | DCModelManager_20260213_175845 | INFO | log_message:32 | Metrics calculated - Sharpe: -0.03, Max DD: -40.54%
+2026-02-13 18:16:13 | DCModelManager_20260213_175845 | INFO | log_message:117 | Running Buy & Hold benchmark
+2026-02-13 18:16:13 | DCModelManager_20260213_175845 | INFO | log_message:117 | Buy & Hold completed - Final value: 57230.97, Return: 472.31%
+2026-02-13 18:16:59 | DCModelManager_20260213_175845 | INFO | log_message:34 | Generating DC trading signals
+2026-02-13 18:17:02 | DCModelManager_20260213_175845 | INFO | log_message:34 | Signals generated - Buys: 238, Sells: 238
+2026-02-13 18:17:02 | DCModelManager_20260213_175845 | INFO | log_message:34 | Running backtest - Initial capital: 10000.00
+2026-02-13 18:17:06 | DCModelManager_20260213_175845 | INFO | log_message:34 | Backtest completed - Final value: 16818.51, Total costs: 0.00
+2026-02-13 18:17:06 | DCModelManager_20260213_175845 | INFO | log_message:32 | Calculating performance metrics
+2026-02-13 18:17:06 | DCModelManager_20260213_175845 | INFO | log_message:32 | Metrics calculated - Sharpe: 0.15, Max DD: -39.26%
+2026-02-13 18:17:06 | DCModelManager_20260213_175845 | INFO | log_message:117 | Running Buy & Hold benchmark
+2026-02-13 18:17:06 | DCModelManager_20260213_175845 | INFO | log_message:117 | Buy & Hold completed - Final value: 57230.97, Return: 472.31%
+2026-02-13 18:17:59 | DCModelManager_20260213_175845 | INFO | log_message:34 | Generating DC trading signals
+2026-02-13 18:18:02 | DCModelManager_20260213_175845 | INFO | log_message:34 | Signals generated - Buys: 238, Sells: 238
+2026-02-13 18:18:02 | DCModelManager_20260213_175845 | INFO | log_message:34 | Running backtest - Initial capital: 10000.00
+2026-02-13 18:18:05 | DCModelManager_20260213_175845 | INFO | log_message:34 | Backtest completed - Final value: 10446.24, Total costs: 5209.92
+2026-02-13 18:18:05 | DCModelManager_20260213_175845 | INFO | log_message:32 | Calculating performance metrics
+2026-02-13 18:18:05 | DCModelManager_20260213_175845 | INFO | log_message:32 | Metrics calculated - Sharpe: -0.03, Max DD: -40.54%
+2026-02-13 18:18:05 | DCModelManager_20260213_175845 | INFO | log_message:117 | Running Buy & Hold benchmark
+2026-02-13 18:18:05 | DCModelManager_20260213_175845 | INFO | log_message:117 | Buy & Hold completed - Final value: 57173.74, Return: 471.74%
+2026-02-13 18:24:00 | DCModelManager_20260213_175845 | INFO | log_message:34 | Generating DC trading signals
+2026-02-13 18:24:02 | DCModelManager_20260213_175845 | INFO | log_message:34 | Signals generated - Buys: 238, Sells: 238
+2026-02-13 18:24:02 | DCModelManager_20260213_175845 | INFO | log_message:34 | Running backtest - Initial capital: 10000.00
+2026-02-13 18:24:05 | DCModelManager_20260213_175845 | INFO | log_message:34 | Backtest completed - Final value: 10446.24, Total costs: 5209.92
+2026-02-13 18:24:05 | DCModelManager_20260213_175845 | INFO | log_message:32 | Calculating performance metrics
+2026-02-13 18:24:05 | DCModelManager_20260213_175845 | INFO | log_message:32 | Metrics calculated - Sharpe: -0.03, Max DD: -40.54%
+2026-02-13 18:24:05 | DCModelManager_20260213_175845 | INFO | log_message:117 | Running Buy & Hold benchmark
+2026-02-13 18:24:05 | DCModelManager_20260213_175845 | INFO | log_message:117 | Buy & Hold completed - Final value: 57173.74, Return: 471.74%
+2026-02-13 18:25:10 | DCModelManager_20260213_175845 | INFO | log_message:34 | Generating DC trading signals
+2026-02-13 18:25:13 | DCModelManager_20260213_175845 | INFO | log_message:34 | Signals generated - Buys: 238, Sells: 238
+2026-02-13 18:25:13 | DCModelManager_20260213_175845 | INFO | log_message:34 | Running backtest - Initial capital: 10000.00
+2026-02-13 18:25:16 | DCModelManager_20260213_175845 | INFO | log_message:34 | Backtest completed - Final value: 10446.24, Total costs: 5209.92
+2026-02-13 18:25:16 | DCModelManager_20260213_175845 | INFO | log_message:32 | Calculating performance metrics
+2026-02-13 18:25:16 | DCModelManager_20260213_175845 | INFO | log_message:32 | Metrics calculated - Sharpe: -0.03, Max DD: -40.54%
+2026-02-13 18:25:16 | DCModelManager_20260213_175845 | INFO | log_message:117 | Running Buy & Hold benchmark
+2026-02-13 18:25:16 | DCModelManager_20260213_175845 | INFO | log_message:117 | Buy & Hold completed - Final value: 57173.74, Return: 471.74%
